@@ -1,8 +1,8 @@
 package main
 
 import (
-	"feishu-multipart-upload/upload"
 	"fmt"
+	"github.com/toby1991/feishu-multipart-upload/upload"
 	"os"
 )
 

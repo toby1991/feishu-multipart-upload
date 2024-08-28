@@ -1,4 +1,4 @@
-module feishu-multipart-upload
+module github.com/toby1991/feishu-multipart-upload
 
 go 1.22.2
 
